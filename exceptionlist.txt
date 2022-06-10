@@ -1,2 +1,2 @@
-twitter.com
-snapchat.com
+.twitter.com
+.snapchat.com
