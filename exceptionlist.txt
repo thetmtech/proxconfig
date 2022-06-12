@@ -1,5 +1,6 @@
 .twitter.com
 .snapchat.com
+.whatsapp.net
 .apple.com
 .icloud.com
 .icloud-content.com
