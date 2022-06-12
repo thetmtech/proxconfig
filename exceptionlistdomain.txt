@@ -1,0 +1,3 @@
+graph.microsoft.com
+edge-mqtt.facebook.com
+web.facebook.com
